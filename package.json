@@ -1,0 +1,18 @@
+{
+  "name": "odin-todoist",
+  "version": "1.0.0",
+  "description": "The Odin Project Todo List App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ro Han",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  }
+}
